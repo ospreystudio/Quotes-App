@@ -2,7 +2,7 @@
 
 
 [![N|Solid](https://i.ibb.co/vHpsNKL/logo.png)](https://nodesource.com/products/nsolid)
-# You can see the App follow [This Link](https://quotes-app-coral.vercel.app)
+# You can see the App follow [This Link](https://quotes-app-beta.vercel.app/)
 
 ## Technologies
 - [VUE.JS] - Vue.js - open source JavaScript framework
